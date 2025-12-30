@@ -46,7 +46,7 @@ npm run dev
 
 Open:
 👉 http://localhost:3000
-
+---
 🌍 Deployment
 This project is deployed using Vercel (Free Plan).
 
@@ -60,6 +60,7 @@ Select Next.js preset
 
 Click Deploy
 
+---
 📝 Assignment Notes
 -Fully responsive landing page
 
